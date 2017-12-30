@@ -1,0 +1,32 @@
+take key
+inventory
+go north
+take cheat sheet
+inventory
+score
+go north
+go north
+take tcard
+take sunglasses
+inventory
+go south
+go west
+unlock door
+open door
+take scarf
+inventory
+go west
+wear scarf
+go west
+go north
+take lucky pen
+inventory
+go south
+go east
+wear sunglasses
+go south
+go south
+score
+drop cheat sheet
+drop tcard
+drop lucky pen

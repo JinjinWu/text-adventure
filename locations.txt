@@ -1,0 +1,75 @@
+
+LOCATION 1
+False
+You are in an empty study room. The only exit is North to the library.
+This study room is completely empty. And by empty, we mean, absolutely empty. All the tables and chairs have been taken out,
+the whiteboards taken off the wall, not even the carpeting is left. Are they planning to do something else with this space?
+END
+
+LOCATION 2
+False
+You are on the main floor of the UTM library. There is an empty study room to the South, an exit from the library to the North.
+This is the main floor of the UTM library. It's usually crowded at this time of the day, but today it's eerily quiet.
+Only a few students are studying inside one of the study rooms. You better not disturb them. A librarian stands near the
+service desk, looking bored and sleepy.
+END
+
+LOCATION 3
+False
+You are outside of the library. There is a Starbucks to the North, and the hallway to CCT to the West.
+This is the hallway outside the main doors of the library. There are small tables and chairs scattered about the outside of Starbucks.
+A banner stands by the front doors advertising a past event. There is a smell of coffee in the air.
+END
+
+LOCATION 4
+False
+You are standing in Starbucks. The only exit is in the South to the outside of the library.
+Ah, the smell of overpriced caffeinated drinks welcomes you to Starbucks.
+You could go for a little bit of jolt in your system after studying all night, but you've got more important matters on hand.
+END
+
+LOCATION 5
+False
+You are standing in the hallway that links the library in the East to the CCT atrium in the West.
+The hall spans a long distance, making the commute frustrating on school days.
+Windows allow the sunlight to fill the corridor.
+END
+
+LOCATION 6
+False
+You are in the CCT atrium. Circuit Break Cafe is in the South, the junction is in the West, and the hallway is East.
+It's quite spacious and open here with the high ceilings and large windows,
+and it would be almost peaceful if not for the ENORMOUS crowd of people waiting around Circuit Break Cafe nearby.
+They are here waiting for the Math Proofs exam which you are definitely NOT ready for.
+END
+
+LOCATION 7
+False
+You are in the junction of paths outside CCT. You can go North to the Student Centre or East to the CCT atrium.
+The sun is shining down on the junction, but you don't feel particularly sunny right now.
+You can see your breath in the air and a few students hustling to their destinations.
+END
+
+LOCATION 8
+False
+You are inside the Student Centre. The only exit is back South to the junction.
+Despite the line for the printers being too long whenever you're in a rush to print something off for class, they are empty today.
+There is a girl behind the desk talking to her friends WAY too loudly, and you wish you could be enjoying yourself as much she is.
+END
+
+LOCATION 9
+False
+You are standing in Circuit Break Cafe. The CCT atrium is to the North and your exam room is in the South.
+The students crowd into this section of CCT, many burrowing their noses in math notes in last-minute cramming.
+You would be doing the same but you've got an even worse crisis on hand.
+That is: if you don't get yourself in there with that tcard, pen, and cheat sheet in time YOU ARE SCREWED.
+END
+
+LOCATION 10
+False
+You are in the theatre where your exam is held. The only exit is North to Circuit Break Cafe.
+Professors and TAs stand like sentinels among the rows of tables.
+You are definitely not ready for this.
+END
+
+FILE END
